@@ -4,7 +4,7 @@
 - 🌱 Currently learning **Spring Boot**
 - 💻 Passionate about **Full-Stack Web Development**
 - 🎯 Goal: Build scalable and secure applications
-- 🌐 Portfolio: [danwiic.dev](https://example.com)
+- 🌐 Portfolio: [https://www.danpirante.tech]
 
 ---
 
