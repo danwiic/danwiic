@@ -11,7 +11,7 @@
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
-<p align="left">
+<p align="">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
