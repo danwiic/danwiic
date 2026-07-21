@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Dan (Dan Raniel Pirante)
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="28"/> Hi, I'm Dan (Dan Raniel Pirante)
 
-## 💡 About Me
-- 💻 Freelance full-stack developer — backend-leaning, ~3 years building production systems
-- 🚀 Shipped a bulk email platform handling large-scale sends (FastAPI, Celery, Redis, ClickHouse)
-- 🧠 Currently building a local AI inference / RAG pipeline on Ollama
-- 🎓 Graduating September 2026 — open to backend/platform engineering roles
-- 🌐 Portfolio: [danpirante.dev](https://danpirante.dev)
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20"/> About Me
+- Freelance full-stack developer — backend-leaning, ~3 years building production systems
+- Shipped a bulk email platform handling large-scale sends (FastAPI, Celery, Redis, ClickHouse)
+- Currently building a local AI inference / RAG pipeline on Ollama
+- Graduating September 2026 — open to backend/platform engineering roles
+- Portfolio: [danpirante.dev](https://danpirante.dev)
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> Featured Projects
 
-### 📧 Bulk Email Platform
+### Bulk Email Platform
 Production-grade email blasting system built to handle high-volume sends reliably.
 - Stack: `FastAPI` · `Celery` · `Redis` · `ClickHouse` · `gevent` · Bloom filters
 - Fixed a Redis connection-pooling regression that was silently degrading throughput
@@ -19,16 +19,19 @@ Production-grade email blasting system built to handle high-volume sends reliabl
 - Resolved a cache-stampede bug caused by an `ex` vs `expire` parameter mismatch
 - Redesigned the watchdog loop with persistent clients, async locks, and exponential backoff
 
-### 🧠 Local RAG Pipeline
+### Local RAG Pipeline
 Local-first AI inference and retrieval system layered on the same backend stack.
 - Stack: `Ollama` · `FastAPI` · `Celery` · `Redis` · Vector store (Chroma/Qdrant)
 - Exploring model-size tradeoffs for local inference
 - Evaluating VPS/Docker deployment paths
 
+### Jendave Embroidery — Online Ordering System
+Full-stack ordering platform for a small embroidery business.
+- Stack: `Next.js` · `Prisma`
 
 ---
 
-## 🛠 Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20"/> Tech Stack
 
 **Core**
 
@@ -75,7 +78,7 @@ Local-first AI inference and retrieval system layered on the same backend stack.
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanWiic&show_icons=true&theme=tokyonight" height="165"/>
@@ -88,7 +91,7 @@ Local-first AI inference and retrieval system layered on the same backend stack.
 
 ---
 
-## 📫 Connect With Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/> Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/danwiic)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://danpirante.dev)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danpirante9@gmail.com)
