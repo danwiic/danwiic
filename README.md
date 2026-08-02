@@ -25,10 +25,6 @@ Local-first AI inference and retrieval system layered on the same backend stack.
 - Exploring model-size tradeoffs for local inference
 - Evaluating VPS/Docker deployment paths
 
-### Jendave Embroidery — Online Ordering System
-Full-stack ordering platform for a small embroidery business.
-- Stack: `Next.js` · `Prisma`
-
 ---
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20"/> Tech Stack
