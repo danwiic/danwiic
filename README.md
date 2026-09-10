@@ -11,6 +11,12 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/> Featured Projects
 
+### Retailor — AI Resume Tailoring Web App
+Tailors a resume to a specific job posting — re-frames real experience to match what a posting asks for, nothing invented.
+- Stack: `FastAPI` · `Next.js` · `Azure AI Foundry (GPT-5 mini)` · `Docker` · `nginx` · `GitHub Actions CI/CD`
+- Self-hosted on AWS EC2 behind nginx with TLS, auto-deployed via GitHub Actions building images to GHCR
+- Live: [retailor.danpirante.dev](https://retailor.danpirante.dev)
+
 ### Bulk Email Platform
 Production-grade email blasting system built to handle high-volume sends reliably.
 - Stack: `FastAPI` · `Celery` · `Redis` · `ClickHouse` · `gevent` · Bloom filters
